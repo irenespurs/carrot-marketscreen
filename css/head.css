@@ -1,0 +1,23 @@
+.head__title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 0 10px 0;
+  border-bottom: 2px solid black;
+  position: sticky;
+}
+.head__time {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  position: sticky;
+}
+.head__icon__img {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 20px;
+  height: 20px;
+  padding-right: 60px;
+  position: sticky;
+}
