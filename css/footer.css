@@ -1,0 +1,12 @@
+.footer__title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 1px solid black;
+  position: sticky;
+}
+.footer__title__icons img {
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+}

@@ -3,6 +3,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: start;
+  border-top: 1px solid black;
 }
 .main__title__img {
   display: flex;
@@ -20,3 +21,28 @@
   align-items: center;
   margin: 0px 0px 0px 50px;
 }
+
+.write-btn {
+  background-color: orange;
+  color: black;
+  box-shadow: orange;
+  border-radius: 10px;
+  font-size: 25px;
+  position: fixed;
+  cursor: pointer;
+  right: 20px;
+  bottom: 120px;
+}
+
+/* 
+  background-color: orange;
+  color: black;
+  padding: 10px 20px 10px 20px;
+  border-radius: 25px;
+  font-size: 15px;
+  position: fixed;
+  bottom: 120px;
+  right: 20px;
+  box-shadow: orange;
+  cursor: pointer;
+} */
